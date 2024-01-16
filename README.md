@@ -72,3 +72,6 @@ https://rawg.io/apidocs
 https://api.rawg.io/docs/
 
 ## Enlace a despliegue del proyecto
+https://65a6d1b37502740e308c7976--meek-maamoul-774b6b.netlify.app/  
+
+dime si no funciona para que te lo muestre que no estoy seguro si lo he subido bien
